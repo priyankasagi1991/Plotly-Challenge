@@ -37,8 +37,7 @@ Use Plotly.js to build interactive charts for your dashboard.
   * Use `sample_values` for the y values.
   
   
-  Here is the link to the Heroku deployed app:
-  https://belly-button-challenge.herokuapp.com
+  
   * Use `sample_values` for the marker size.
 
   * Use `otu_ids` for the marker colors.
@@ -103,3 +102,7 @@ Use Flask API starter code to serve the data needed for your plots.
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+
+
+Here is the link to the Heroku deployed app:
+  https://belly-button-challenge.herokuapp.com
