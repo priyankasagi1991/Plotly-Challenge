@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath BellyButtonBiodiversity app.app
+web: gunicorn --pythonpath BellyButtonBiodiversity app:app
